@@ -1,5 +1,5 @@
 ---------------------------------
-### Launch Site
+### Launch Site ###
 
 SILOEXIT1
 SILOEXIT2
@@ -7,7 +7,7 @@ SILOMISSILE
 SILOSHIPPING
 SILOTOWER
 ---------------------------------
-### Small oil
+### Small oil ###
 
 OILRIG1HELI
 OILRIG1DOCK
@@ -16,7 +16,7 @@ OILRIG1L2
 OILRIG1L3
 OILRIG1L4
 ---------------------------------
-### Large oil
+### Large oil ###
 
 OILRIG2HELI
 OILRIG2DOCK
@@ -32,19 +32,19 @@ OILRIG2L6B
 OILRIG2L6C
 OILRIG2L6D
 ---------------------------------
-### Dome
+### Dome ###
 
 DOME1
 DOMETOP
 ---------------------------------
-### Outpost
+### Outpost ###
 
 COMPOUNDSTREET
 COMPOUNDMUSIC
 COMPOUNDCRUDE
 COMPOUNDCHILL
 ---------------------------------
-### Airfield
+### Airfield ###
 
 AIRFIELDHELIPAD
 ---------------------------------
